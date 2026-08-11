@@ -34,11 +34,11 @@ The resulting `contacts.csv` file uses the following headers:
 
 ### Quick Start
 
-1. **Clone or Download**: Copy the code script into a local directory as `convert.py`.
-2. **Add Your vCard Data**: Open `convert.py` in your text editor and paste your raw vCard block inside the triple-quoted string (`vcard_data = """..."""`).
+1. **Clone or Download**: Copy the code script into a local directory as `main.py`.
+2. **Add Your vCard Data**: Open `main.py` in your text editor and paste your raw vCard block inside the triple-quoted string (`vcard_data = """..."""`).
 3. **Execute the Script**: Run the file using your terminal or Python interpreter:
 ```bash
-python convert.py
+python main.py
 
 ```
 
