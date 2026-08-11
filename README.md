@@ -38,7 +38,7 @@ The resulting `contacts.csv` file uses the following headers:
 2. **Add Your vCard Data**: Open `main.py` in your text editor and paste your raw vCard block inside the triple-quoted string (`vcard_data = """..."""`).
 3. **Execute the Script**: Run the file using your terminal or Python interpreter:
 ```bash
-python main.py
+python main.py contacts.cvf
 
 ```
 
